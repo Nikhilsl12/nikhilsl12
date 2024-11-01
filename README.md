@@ -16,10 +16,13 @@ Hi there! I'm a passionate B.Tech student in Computer Science, diving deep into 
 - Advanced Java concepts and Spring Boot
 
 ### Hacktoberfest 2024
-🎉 I successfully completed the Hacktoberfest 2024 challenge! Check out my contributions:
+🎉 I successfully completed the Hacktoberfest 2024 challenge! 
+<!--Check out my contributions:
 - [Repository 1](#)
 - [Repository 2](#)
 - [Repository 3](#)
+-->
+[![An image of @nikhilsl12's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nikhilsl12)](https://holopin.io/@nikhilsl12)
 
 ### Projects
 - **Project A**: Description of Project A
@@ -30,7 +33,7 @@ Hi there! I'm a passionate B.Tech student in Computer Science, diving deep into 
 - [Twitter](#)
 
 ### GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhilsl12&show_icons=true&theme=radical)
 
 
 <!--
