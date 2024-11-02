@@ -24,12 +24,12 @@ Hi there! I'm a passionate B.Tech student in Computer Science, diving deep into 
 -->
 [![An image of @nikhilsl12's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nikhilsl12)](https://holopin.io/@nikhilsl12)
 
-### Projects
+<!--### Projects
 - **Project A**: Description of Project A
 - **Project B**: Description of Project B
-
+-->
 ### Connect with Me
-- [LinkedIn](www.linkedin.com/in/nikhil-singhal-1b0921251)
+- [LinkedIn](https://linkedin.com/in/nikhil-singhal-1b0921251)
 - [Twitter](https://x.com/_Nikhilsinghal)
 
 ### GitHub Stats
