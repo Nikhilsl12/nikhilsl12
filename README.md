@@ -29,8 +29,8 @@ Hi there! I'm a passionate B.Tech student in Computer Science, diving deep into 
 - **Project B**: Description of Project B
 
 ### Connect with Me
-- [LinkedIn](#)
-- [Twitter](#)
+- [LinkedIn](www.linkedin.com/in/nikhil-singhal-1b0921251)
+- [Twitter](https://x.com/_Nikhilsinghal)
 
 ### GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhilsl12&show_icons=true&theme=radical)
