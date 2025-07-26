@@ -51,10 +51,10 @@ Check out my badge here:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nikhilsl12&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilsl12&theme=radical" alt="GitHub Streak"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=nikhilsl12&theme=radical" alt="GitHub Streak"/>
+  </a>
 </p>
-
----
 
 ## 🌐 Connect with Me
 
