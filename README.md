@@ -35,6 +35,7 @@ Hey there! I'm **Nikhil Singhal**, a passionate **B.Tech Computer Science** stud
 - Design Patterns & Clean Architecture
 - PostgreSQL and Database optimization
 - Docker (Basics)
+- Frontend development
 
 ---
 
