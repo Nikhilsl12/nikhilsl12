@@ -46,10 +46,10 @@ Check out my badge here:
 [![Holopin Badges](https://holopin.me/nikhilsl12)](https://holopin.io/@nikhilsl12)
 
 ---
-
+<!--
 ## 📈 GitHub Stats & Streak
 
-<!--<p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nikhilsl12&show_icons=true&theme=radical" alt="GitHub Stats" height="180em"/>
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=nikhilsl12&theme=radical" alt="GitHub Streak" height="180em"/>
